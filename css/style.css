@@ -1,0 +1,27 @@
+body {
+   background: gray; 
+   margin-left: 200px;
+   margin-right: 150px;
+   text-align: justify;
+}
+
+header{
+    margin-top: 50px;
+}
+
+h1{
+    color: red;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 19px;
+}
+
+img{
+    margin-bottom: 20px;
+}
